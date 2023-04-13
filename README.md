@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivarajkarki
-- 👀 I’m interested in Deep Learning, Object Detection, LSTM, GRU
-- 🌱 I’m currently learning GRU, Speech to Text 
+- 👀 I’m interested in Deep Learning, Object Detection, Segmentation
+- 
 - 📫 How to reach me karki.shivaraj@gmail.com
 
 <!---
